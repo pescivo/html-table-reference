@@ -1,0 +1,16 @@
+h1, h2{
+    text-align: center;
+    color: purple;
+    font-family: monospace;
+}
+
+table{
+    margin: 0 auto;
+    background-color: lightpink;
+    font-family: monospace;
+}
+
+thead{
+    background-color: rgb(173, 93, 106);
+    font-family: monospace;
+}
